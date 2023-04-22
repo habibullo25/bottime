@@ -8,7 +8,7 @@ packages = [{include = "bottime"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-aiogram = "^2.25.1"
+aiogram = "^2.14"
 python-dotenv = "^1.0.0"
 
 
